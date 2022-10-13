@@ -1,7 +1,6 @@
 ---
-title: "Functions"
+title: "functions.R"
 tags:
 - analysis
 - utilities
 ---
-[[notes/analysis]]

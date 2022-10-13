@@ -1,7 +1,10 @@
 ---
-title: "Analysis"
+title: "Knitting"
 tags:
-- analysis
+- knit
 ---
 
+[[notes/Analysis]]
 [[notes/utilities/functions.R]]
+
+
