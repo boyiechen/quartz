@@ -33,10 +33,10 @@ You will find a cute network chart if you scroll down this page. It shows how a 
 The following notes are categorized as Index Notes because they are parent notes of other notes. You may find it clear to see what role parent notes play in the network chart.
 
 ## Data Creation
-![[notes/Data Creation]]
+[[notes/Data Creation]]
 
 ## Analysis
-![[notes/Analysis]]
+[[notes/Analysis]]
 ## Knitting
-![[notes/Knitting]]
+[[notes/Knitting]]
 
