@@ -1,5 +1,5 @@
 ---
-title: Interactive Documentation for the Demand Project
+title: "Interactive Documentation for the Demand Project"
 enableToc: false
 ---
 
