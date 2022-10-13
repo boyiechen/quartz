@@ -1,6 +1,8 @@
 ---
 title: "Analysis"
+tags:
+- analysis
 ---
 
 
-[[notes/old/obsidian]]
+[[private/old/obsidian]]
