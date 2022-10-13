@@ -1,0 +1,6 @@
+---
+title: "Analysis"
+---
+
+
+[[notes/obsidian]]

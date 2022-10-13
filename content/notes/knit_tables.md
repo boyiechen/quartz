@@ -1,2 +1,8 @@
-[[analysis]]
-[[func]]
+---
+title: "knitting"
+---
+
+[[notes/analysis]]
+[[notes/func]]
+
+

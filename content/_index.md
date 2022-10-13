@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: Interactive Documentation for the Demand Project
 enableToc: false
 ---
 

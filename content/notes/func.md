@@ -1,1 +1,4 @@
-[[analysis]]
+---
+title: "Functions"
+---
+[[notes/analysis]]
