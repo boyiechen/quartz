@@ -3,4 +3,4 @@ title: "Analysis"
 ---
 
 
-[[notes/obsidian]]
+[[notes/old/obsidian]]
